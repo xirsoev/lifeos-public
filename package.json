@@ -1,0 +1,8 @@
+{
+  "name": "lifeos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Личное пространство для задач, целей, привычек и заботы о себе",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
